@@ -10,5 +10,4 @@ func main() {
 	fmt.Println(math.Ceil(3.1415))
 	fmt.Println(math.Sqrt(64))
 
-	fmt.Println(strutil.reverse("olleh"))
 }
